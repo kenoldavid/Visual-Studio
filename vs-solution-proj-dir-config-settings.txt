@@ -1,0 +1,2 @@
+OUTPUT DIR 	 ====> $(SolutionDir)bin\$(Platform)\$(Configuration)\
+INTERMEDIATE DIR ====> C:\Dev\ObjectFiles\$(ProjectName)\$(Platform)\$(Configuration)\
